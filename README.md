@@ -1,4 +1,4 @@
-# 🚑 Dev-Dut  - Real-time Accident Alert & Rescue System
+# 🚑 Dev-Dut  -- Real-time Accident Alert & Rescue System
 
 SwiftAid is a real-time platform where anyone can quickly report accidents by uploading a photo 📸 and sharing their location 🌍. Nearby rescue teams are alerted instantly ⛨️ to respond faster and save lives. Users earn reward points 🏆 for every genuine report they make!
 
